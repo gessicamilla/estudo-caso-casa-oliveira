@@ -47,6 +47,12 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 
 !["modelo conceitual de banco de dados"](modelo-conceitual-casa-oliveira.png)
 
+### Normalização feita no Excel
+### Foram  realizado 3 normalizações
+
+!["primeira parte"](primeiraparte.png)
+!["segunda parte"](segundaparte.png)
+
 
 ### Modelo Lógico
 
